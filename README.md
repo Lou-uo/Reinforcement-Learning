@@ -6,7 +6,7 @@ This warehouse mainly records my footprint of reinforcement learning.
 [Chinese introductory guide](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/)
 
 - Chapter 1： discusses reinforcement learning.👉[PDF](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E7%AC%AC1%E7%AB%A0%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.pdf)
-  - [ϵ-Greedy algorithm]()
+  - [ϵ-Greedy algorithm](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA_%CF%B5-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.py)
   - [UCB(upper confidence bound)]()
   - [Thompson sampling]()
 - Chapter 2： Dobby Slot Machine👉[PDF](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E7%AC%AC2%E7%AB%A0%20%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA.pdf)
