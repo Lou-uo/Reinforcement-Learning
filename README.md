@@ -10,6 +10,8 @@ This warehouse mainly records my footprint of reinforcement learning.
 - Chapter 3： markov decision processes👉[PDF](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E7%AC%AC3%E7%AB%A0%20%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B.pdf)
 
 ## Practice
-[Verl](https://verl.org.cn/en/latest/index.html)
 
+### Verl (post-training for LLM)
+[Verl](https://verl.org.cn/en/latest/index.html) \
+[Initial training log](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Verl/PPO%E5%88%9D%E8%AE%AD%E6%89%8B%E5%86%99%E6%97%A5%E5%BF%97.pdf) \
 ……
