@@ -10,7 +10,7 @@ This warehouse mainly records my footprint of reinforcement learning.
   - [ϵ-Greedy algorithm](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA_%CF%B5-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.py)
   - [UCB(upper confidence bound)](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA_%E4%B8%8A%E7%BD%AE%E4%BF%A1%E7%95%8C%E7%AE%97%E6%B3%95.py)
   - [Thompson sampling](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E5%A4%9A%E8%87%82%E8%80%81%E8%99%8E%E6%9C%BA_%E6%B1%A4%E6%99%AE%E6%A3%AE%E9%87%87%E6%A0%B7%E7%AE%97%E6%B3%95.py)
-- Chapter 3: markov decision processes👉[PDF](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E7%AC%AC3%E7%AB%A0%20%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B.pdf)👉[Code]()
+- Chapter 3: markov decision processes👉[PDF](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E7%AC%AC3%E7%AB%A0%20%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B.pdf)👉[Code](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B_%E6%A8%A1%E6%8B%9F%E5%A5%96%E5%8A%B1%E8%BF%87%E7%A8%8B.py)
 - Chapter 4: Dynamic Programming👉[Code]()
 
 ## Practice
