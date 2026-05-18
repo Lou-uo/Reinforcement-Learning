@@ -1,8 +1,9 @@
 # Reinforcement-Learning
+
 This warehouse mainly records my footprint of reinforcement learning.
 
-
 ## Basic knowledge literacy
+
 [Chinese introductory guide](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/)
 
 - Chapter 1: discusses reinforcement learning.👉[PDF](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Basic%20knowledge%20literacy/%E7%AC%AC1%E7%AB%A0%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.pdf)
@@ -16,6 +17,7 @@ This warehouse mainly records my footprint of reinforcement learning.
 ## Practice
 
 ### Verl (post-training for LLM)
+
 [Verl](https://verl.org.cn/en/latest/index.html) \
 [Initial training log](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Verl/PPO%E5%88%9D%E8%AE%AD%E6%89%8B%E5%86%99%E6%97%A5%E5%BF%97.pdf) \
 ……
