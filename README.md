@@ -21,3 +21,7 @@ This warehouse mainly records my footprint of reinforcement learning.
 [Verl](https://verl.org.cn/en/latest/index.html) \
 [Initial training log](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/Verl/PPO%E5%88%9D%E8%AE%AD%E6%89%8B%E5%86%99%E6%97%A5%E5%BF%97.pdf) \
 ……
+
+### Introduction to PPO training
+
+[CartPole](https://github.com/Lou-uo/Reinforcement-Learning/blob/main/chapter01_cartpole/core_code.ipynb)
